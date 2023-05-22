@@ -1,1 +1,2 @@
-# ACT_Remote - Always Closing Tasks to-do app project. 
+# ACT - Always Closing Tasks 
+## The To Do App that is designed to finish. 
