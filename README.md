@@ -6,8 +6,7 @@ Help yourself get more done by tracking the idea and task as soon as it comes to
 
 This project is my version of a To Do list app that has basic UITableView functions with more advance coding to open up more features. Folllowing the MVC practices, I was able to code this project with readable and reusable methods that can be built on to expand functionality. 
 
-![ACT_LaunchScreen](https://github.com/TratonGossink/ACT_iOS/assets/79613749/409a06a2-9aa7-474b-aee1-50493ba76034)
-
+![ACT_LaunchScreenInitial](https://github.com/TratonGossink/ACT_iOS/assets/79613749/2575069c-ea65-44ac-bd57-2f4f415b788e)
 
 https://github.com/TratonGossink/ACT_iOS/assets/79613749/6e15633e-93cb-4fe0-b423-2c841a15d04b
 
