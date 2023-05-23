@@ -6,9 +6,7 @@ Help yourself get more done by tracking the idea and task as soon as it comes to
 
 This project is my version of a To Do list app that has basic UITableView functions with more advance coding to open up more features. Folllowing the MVC practices, I was able to code this project with readable and reusable methods that can be built on to expand functionality. 
 
-
-
-https://github.com/TratonGossink/ACT_iOS/assets/79613749/6e15633e-93cb-4fe0-b423-2c841a15d04b ![ACT_LaunchScreenInitial](https://github.com/TratonGossink/ACT_iOS/assets/79613749/2575069c-ea65-44ac-bd57-2f4f415b788e)
+https://github.com/TratonGossink/ACT_iOS/assets/79613749/6e15633e-93cb-4fe0-b423-2c841a15d04b 
 
 ### Download Zip File Method:
 Download zip file and extract files by double clicking in finder or right clicking and selecting extract. In XCode, go to open file and find the location of the downloaded project folder and select the .xcodeproj file.
