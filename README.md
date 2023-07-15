@@ -1,6 +1,6 @@
 # ACT - Always Closing Tasks 
 
-The To Do App that is designed to finish. 
+The To Do App that is designed to finish tasks. 
 
 Help yourself get more done by tracking the idea and task as soon as it comes to thought. Use this app to track things you want to get done. You can add as many catergories as you want. Once you select that category, you can add the tasks that are related to that category. When you really start getting more and more tasks lined up, you can always search for the items you want and find it with ease. 
 
