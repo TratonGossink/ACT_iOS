@@ -1,7 +1,7 @@
 # ACT - Always Closing Tasks 
 
 The To Do App that is designed to track tasks. 
-This app was built as a part of my online iOS development bootcamp from Angela Yu on Udemy. It has basic UITableView functions with more advanced functions for each cell. Each cell has built in features for UI interactions. Implemented Realm with cocoa pods for storing and querying data. 
+This app was built as a part of my online iOS development bootcamp from Angela Yu on Udemy. I decided to make it more of my own by designing some of the UI, app icon and basic functions. It has basic UITableView functions with more advanced functions for each cell. Each cell has built in features for UI interactions. Implemented Realm with cocoa pods for storing and querying data. 
 Folllowing the MVC practices, I was able to code this project with readable and reusable methods that have been built to expand functionality. 
 
 https://github.com/TratonGossink/ACT_iOS/assets/79613749/6e15633e-93cb-4fe0-b423-2c841a15d04b 
